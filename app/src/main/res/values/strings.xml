@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">practical</string>
+    <string name="rollButton">ROLL</string>
+    <string name="txtNumber">Roll your dice</string>
 </resources>
